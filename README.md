@@ -1,4 +1,4 @@
-# 📊 WUZZUF Egypt Job Market Analysis
+# 📊Egypt Job Market Analysis
 Till 03:00 PM 8 April 2026
 ## 🚀 Overview
 
