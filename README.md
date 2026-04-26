@@ -84,7 +84,7 @@ This project solves that by collecting and analyzing real job postings to uncove
 
 ## 📈 Dashboard
 
-🔗 [Add your Looker Studio link here]
+🔗 ( https://datastudio.google.com/s/hWACn-2SCKE )
 
 ---
 
